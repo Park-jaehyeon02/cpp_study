@@ -39,5 +39,8 @@
     <ClCompile Include="part01\DefaultValue3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part01\inlineFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
