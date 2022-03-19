@@ -51,5 +51,14 @@
     <ClCompile Include="part01\NameSp3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part01\UsingDcl1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part01\UsingDcl2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part01\UsingDcl3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
