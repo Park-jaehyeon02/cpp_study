@@ -66,5 +66,8 @@
     <ClCompile Include="part2\TrueAndFalse.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part2\DataTypeBool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

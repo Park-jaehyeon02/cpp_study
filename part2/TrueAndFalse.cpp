@@ -4,7 +4,7 @@ using namespace std;
 
 int main(void)
 {
-	int num = 0;
+	int num = 10;
 	int i = 0;
 
 	cout << "true: " << endl;
