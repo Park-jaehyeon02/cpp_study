@@ -69,5 +69,8 @@
     <ClCompile Include="part2\DataTypeBool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part2\Referen.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
