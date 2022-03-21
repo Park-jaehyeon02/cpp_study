@@ -87,5 +87,17 @@
     <ClCompile Include="part02\RefReturnTwo.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part02\MemMalFree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part02\NewDelete.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part02\NewObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part02\ex_new.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
