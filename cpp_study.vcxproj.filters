@@ -102,5 +102,8 @@
     <ClCompile Include="part02\StdCPPFunc.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part03\RacingCar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
