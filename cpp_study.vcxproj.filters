@@ -63,25 +63,28 @@
     <ClCompile Include="part01\NameAlias.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\TrueAndFalse.cpp">
+    <ClCompile Include="part02\TrueAndFalse.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\DataTypeBool.cpp">
+    <ClCompile Include="part02\DataTypeBool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\Referen.cpp">
+    <ClCompile Include="part02\Referen.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\RefArrElem.cpp">
+    <ClCompile Include="part02\RefArrElem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\RefPtr.cpp">
+    <ClCompile Include="part02\RefPtr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\RefSwap.cpp">
+    <ClCompile Include="part02\RefSwap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="part2\RefReturnOne.cpp">
+    <ClCompile Include="part02\RefReturnOne.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part02\RefReturnTwo.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
