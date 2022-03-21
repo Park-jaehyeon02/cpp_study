@@ -99,5 +99,8 @@
     <ClCompile Include="part02\ex_new.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part02\StdCPPFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

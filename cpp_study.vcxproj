@@ -221,6 +221,7 @@
     <ClCompile Include="part02\RefSwap.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="part02\StdCPPFunc.cpp" />
     <ClCompile Include="part02\TrueAndFalse.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
