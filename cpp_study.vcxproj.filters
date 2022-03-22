@@ -108,5 +108,11 @@
     <ClCompile Include="part03\RacingCarFuncAdd.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="part03\RacingCarEnum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="part03\RacingCarOuterFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
