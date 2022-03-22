@@ -33,7 +33,7 @@ void Car::ShowCarState()
 
 }
 
-void Accel()
+void Car::Accel()
 {
 	if (fuelGauge <= 0)
 		return;
@@ -48,7 +48,7 @@ void Accel()
 	curSpeed += CAR_CONST::ACC_STEP;
 }
 
-void Break()
+void Car::Break()
 {
 	if (curSpeed < CAR_CONST::BRK_STEP)
 	{
